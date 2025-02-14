@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>New User Details - Salus Scaffold</title>
+  </head>
+
+  <body
+    style="
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    "
+  >
+    <div
+      style="
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      "
+    >
+      <h2 style="text-align: center; color: #333">
+        New User Details - Salus Scaffold
+      </h2>
+      <p style="color: #666; margin-bottom: 15px; text-align: center">
+        Hello Admin,
+      </p>
+      <p style="color: #666; margin-bottom: 15px">
+        A new user has joined Salus Scaffold. Here are the details:
+      </p>
+      <ul style="list-style-type: none; padding: 0">
+        <li style="margin-bottom: 5px">
+          <strong>User Name:</strong> <%= userName %>
+        </li>
+        <li style="margin-bottom: 5px">
+          <strong>User Email:</strong> <%= clientEmail %>
+        </li>
+        <li style="margin-bottom: 5px">
+          <strong>user Request:</strong> <%= clientQuestionRequest %>
+        </li>
+      </ul>
+      <p style="color: #666; margin-bottom: 15px">
+        Feel free to reach out to the user if needed.
+      </p>
+      <ul style="list-style-type: none; padding: 0">
+        <li style="margin-bottom: 5px">
+          <strong>Mail:</strong> post@salusstilas.com
+        </li>
+        <li style="margin-bottom: 5px">
+          <strong>Phone Number:</strong> +47 902 324 08
+        </li>
+      </ul>
+      <div
+        style="
+          text-align: center;
+          color: #999;
+          font-size: 0.8rem;
+          margin-top: 20px;
+        "
+      >
+        <p>Best Regards,<br />The Salus Scaffold Team</p>
+      </div>
+      <div
+        style="
+          display: flex;
+          justify-content: center;
+          color: #999;
+          font-size: 0.8rem;
+          margin-top: 20px;
+        "
+      >
+        <img src="<%= imageUrl %>" width="160px" height="60px" />
+      </div>
+    </div>
+  </body>
+</html>

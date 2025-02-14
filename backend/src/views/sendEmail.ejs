@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Project Invitation</title>
+  </head>
+
+  <body>
+    <h1>Project Invitation</h1>
+    <p>
+      You have been invited to the project:</p>
+    <p>
+      Project Name: <strong><%= projectName %></strong>
+    </p>
+    <p>
+      Project Number: <strong><%= projectNumber %></strong>
+    </p>
+    <p>You can <%= actionText %> of the project.</p>
+    <p>Do you accept or decline the invitation?</p>
+    <a href="<%= accept %>" style="background-color: #4caf50; color: white">Accept</a>
+    <a href="<%= reject %>" id="decline" style="background-color: #f44336; color: white">Decline</a>
+    <div style="display: flex; justify-content: center; color: #999; font-size: 0.8rem; margin-top: 20px;">
+      <img src="<%= imageUrl %>" width="160px" height="60px" />
+    </div>
+  </body>
+</html>

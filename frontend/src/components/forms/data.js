@@ -1,0 +1,38 @@
+export const english = [
+    { id: 1, documentList: "Scaffold Signage", documentFile: null, documentComment: null, inspection: null },
+    { id: 2, documentList: "Dimensioning", documentFile: null, documentComment: null, inspection: null },
+    { id: 3, documentList: "Load Bearing Structure", documentFile: null, documentComment: null, inspection: null },
+    { id: 4, documentList: "Access and Safe Use", documentFile: null, documentComment: null, inspection: null },
+    { id: 5, documentList: "Scaffold Decking", documentFile: null, documentComment: null, inspection: null },
+    { id: 6, documentList: "Guardrails", documentFile: null, documentComment: null, inspection: null },
+    { id: 7, documentList: "Splash/Guardrail", documentFile: null, documentComment: null, inspection: null },
+    { id: 8, documentList: "Handrails", documentFile: null, documentComment: null, inspection: null },
+    { id: 9, documentList: "Roof Safety", documentFile: null, documentComment: null, inspection: null },
+    { id: 10, documentList: "Midrails", documentFile: null, documentComment: null, inspection: null },
+    { id: 11, documentList: "Tarpaulin/Netting", documentFile: null, documentComment: null, inspection: null },
+    { id: 12, documentList: "Toeboards", documentFile: null, documentComment: null, inspection: null },
+    { id: 13, documentList: "Foundation", documentFile: null, documentComment: null, inspection: null },
+    { id: 14, documentList: "Bracing", documentFile: null, documentComment: null, inspection: null },
+    { id: 15, documentList: "Anchoring", documentFile: null, documentComment: null, inspection: null },
+    { id: 16, documentList: "Anchoring Hardware", documentFile: null, documentComment: null, inspection: null },
+  ];
+  
+  export const norway = [
+    { id: 1, documentList: "Stillas skilting", documentFile: null, documentComment: null, inspection: null },
+    { id: 2, documentList: "Dimensjonering", documentFile: null, documentComment: null, inspection: null },
+    { id: 3, documentList: "Bærende konstruksjon", documentFile: null, documentComment: null, inspection: null },
+    { id: 4, documentList: "Tilgang og sikker bruk", documentFile: null, documentComment: null, inspection: null },
+    { id: 5, documentList: "Stillasgulv", documentFile: null, documentComment: null, inspection: null },
+    { id: 6, documentList: "Rekkverk", documentFile: null, documentComment: null, inspection: null },
+    { id: 7, documentList: "Sprutbeskyttelse / rekkverk", documentFile: null, documentComment: null, inspection: null },
+    { id: 8, documentList: "Håndrekkverk", documentFile: null, documentComment: null, inspection: null },
+    { id: 9, documentList: "Tak sikkerhet", documentFile: null, documentComment: null, inspection: null },
+    { id: 10, documentList: "Midtrekkverk", documentFile: null, documentComment: null, inspection: null },
+    { id: 11, documentList: "Presenning / nett", documentFile: null, documentComment: null, inspection: null },
+    { id: 12, documentList: "Tåbrett", documentFile: null, documentComment: null, inspection: null },
+    { id: 13, documentList: "Fundament", documentFile: null, documentComment: null, inspection: null },
+    { id: 14, documentList: "Forsterkning", documentFile: null, documentComment: null, inspection: null },
+    { id: 15, documentList: "Forankring", documentFile: null, documentComment: null, inspection: null },
+    { id: 16, documentList: "Forankringsbeslag", documentFile: null, documentComment: null, inspection: null },
+  ];
+  

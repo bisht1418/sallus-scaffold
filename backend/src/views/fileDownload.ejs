@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Approval Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            cursor: pointer;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            text-shadow: 2px 2px 2px #ccc;
+        }
+        table {
+            width: 90%;
+            margin: auto;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #337ab7;
+            color: #fff;
+        }
+        tr:nth-child(even) {
+            background-color: #edf6fa;
+        }
+        tr:nth-child(odd) {
+            background-color: #1792bb;
+        }
+        tr:hover {
+            background-color: #d9edf7;
+            transition: background-color 0.3s;
+            cursor: pointer;
+        }
+        .signature-image {
+            cursor: pointer;
+            text-decoration: underline;
+            color: #337ab7;
+        }
+    </style>
+</head>
+<body>
+    <h1>Approval Form</h1>
+    <table>
+        <tr>
+            <th>Field Name</th>
+            <th>Value</th>
+        </tr>
+        <% for (let key in data) { %>
+            <% if (data[key] !== null && data[key] !== undefined && data[key] !== "null") { %>
+                <tr>
+                    <td><%= key.replace(/([A-Z])/g, ' $1').replace(/^./, function(str){ return str.toUpperCase(); }) %></td>
+                    <td>
+                        <% if (key === 'inspectorSignature' || key === 'customerSignature' || key.includes("File")) { %>
+
+                            <% if (key.includes("File")) { %>
+                                <% const fileExtension = data[key].split('.').pop(); %>
+                                    <% if (fileExtension === 'jpg' || fileExtension === 'png') { %>
+                                        <a class="signature-image" href="<%= data[key] %>" %>/images/<%= data[key] %>" target="_blank">View Image</a>
+                                    <% } else { %>
+                                        <a class="signature-image" href="<%= data[key] %>" %>/files/<%= data[key] %>" target="_blank">View PDF</a>
+                                    <% }  %>
+                                <% }else{  %>
+                                    <a class="signature-image" href="<%= data[key] %>" target="_blank">View Signature</a>
+                                <% }  %>
+                        <% } else { %>
+                            <%= data[key] %>
+                        <% } %>
+                    </td>
+                </tr>
+            <% } %>
+        <% } %>
+    </table>
+</body>
+</html>

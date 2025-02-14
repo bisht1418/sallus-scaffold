@@ -1,0 +1,43 @@
+version: '3.6'
+
+services: 
+ 
+  sallus-be:
+    image: sallus-be
+    container_name: sallus-be
+    hostname: sallus-be
+    restart: always
+    depends_on: 
+      - sallusdb
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 3002:3002
+    networks:
+      - sallusstillas
+
+  sallusdb:
+    image: mongo
+    container_name: sallusdb
+    hostname: sallusdb
+    restart: always
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=saluss
+      - MONGO_INITDB_ROOT_PASSWORD=S411u$
+    ports:
+      - 3003:27017
+    volumes:
+      - sallus-db-data:/data/db
+    networks:
+      - sallusstillas
+
+networks:
+  sallusstillas:
+    name: sallusstillas
+    driver: bridge
+    # external: true
+
+volumes:
+  sallus-db-data:
+    name: sallus-db-data

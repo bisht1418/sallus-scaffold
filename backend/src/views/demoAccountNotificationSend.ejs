@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Demo Notification</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div
+      style="
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      "
+    >
+      <p style="color: #666; margin-bottom: 15px">Dear Admin,</p>
+      <p style="color: #666; margin-bottom: 15px">
+        A new demo request has been received from Salus Scaffold.
+      </p>
+      <p style="color: #666; margin-bottom: 15px">
+        Please find the details of the requester below:
+      </p>
+      <ul style="list-style-type: none; padding: 0">
+        <li style="margin-bottom: 5px">
+          <strong>Name:</strong>
+          <%= requesterName %>
+        </li>
+        <li style="margin-bottom: 5px">
+          <strong>Company Name:</strong>
+          <%= companyName %>
+        </li>
+        <li style="margin-bottom: 5px">
+          <strong>Email:</strong>
+          <%= requesterEmail %>
+        </li>
+        <li style="margin-bottom: 5px">
+          <strong>Phone Number:</strong>
+          <%= phoneNumber %>
+        </li>
+        <li style="margin-bottom: 5px">
+          <strong>Time:</strong>
+          <%= time %>
+        </li>
+      </ul>
+      <div
+        style="
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: #999;
+          font-size: 0.8rem;
+          margin-top: 20px;
+        "
+      >
+        <img src="<%= logoUrl %>" width="160px" height="60px" />
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,36 @@
+{
+  "name": "taskbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cloudinary": "^1.41.0",
+    "cookie-session": "^2.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "jimp": "^0.22.10",
+    "jsonwebtoken": "^9.0.1",
+    "mongodb": "^6.2.0",
+    "mongoose": "^7.8.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.6",
+    "nodemon": "^3.0.1",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "path": "^0.12.7",
+    "start": "^5.1.0",
+    "stripe": "^15.5.0"
+  }
+}

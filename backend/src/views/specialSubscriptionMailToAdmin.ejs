@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>New Subscription Notification</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 600px;
+        margin: 40px auto;
+        padding: 30px;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .header {
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      .header img {
+        width: 160px;
+        height: 60px;
+      }
+      .content {
+        color: #666;
+      }
+      .content p {
+        margin-bottom: 15px;
+      }
+      .details {
+        list-style-type: none;
+        padding: 0;
+      }
+      .details li {
+        margin-bottom: 10px;
+      }
+      .details strong {
+        display: inline-block;
+        width: 150px;
+      }
+      .footer {
+        text-align: center;
+        color: #999;
+        font-size: 0.8rem;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <img src="<%= logoUrl %>" alt="Company Logo" />
+      </div>
+      <div class="content">
+        <p>Dear Admin,</p>
+        <p>
+          We are pleased to inform you that a new subscription request has been
+          received. Please find the details of the subscriber below:
+        </p>
+        <ul class="details">
+          <li>
+            <strong>Subscriber Name:</strong>
+            <%= subscriberName %>
+          </li>
+          <li>
+            <strong>Company Name:</strong>
+            <%= companyName %>
+          </li>
+          <li>
+            <strong>Email:</strong>
+            <%= subscriberEmail %>
+          </li>
+          <li>
+            <strong>Phone Number:</strong>
+            <%= phoneNumber %>
+          </li>
+          <li>
+            <strong>Subscription Plan:</strong>
+            <%= subscriptionPlan %>
+          </li>
+          <li>
+            <strong>Subscription Type:</strong>
+            <%= subscriptionType %>
+          </li>
+          <li>
+            <strong>Time:</strong>
+            <%= time %>
+          </li>
+        </ul>
+      </div>
+      <div class="footer">
+        <p>Thank you for using our service!</p>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meeting Request Notification</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .footer {
+        color: #999;
+        font-size: 0.8rem;
+        margin-top: 20px;
+      }
+      .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #999;
+        font-size: 0.8rem;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Meeting Request Notification</h2>
+      <p>A request has been made for a meeting with the following details:</p>
+      <ul style="list-style-type: none; padding: 0;">
+        <li style="margin-bottom: 10px;">
+          <strong>Requested By:</strong> <%= name %>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <strong>Requested Email:</strong> <%= email %>
+          </li>
+        <li style="margin-bottom: 10px;">
+          <strong>Number of Participants:</strong> 25+
+        </li>
+      </ul>
+      <div class="footer">
+        <p>Best regards,<br />The Salus Scaffold Team</p>
+      </div>
+      <div class="logo">
+        <img src="<%= imageUrl %>" width="160px" height="60px" alt="Salus Scaffold Logo" />
+      </div>
+    </div>
+  </body>
+</html>

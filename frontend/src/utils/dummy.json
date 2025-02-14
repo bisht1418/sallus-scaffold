@@ -1,0 +1,2235 @@
+[
+    {
+        "Art.nr": 704772,
+        "Varenavn": "Fotgjengerundergang|1,50 m alu",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.8,
+        "Norsk katalog s.": 13
+    },
+    {
+        "Art.nr": 731797,
+        "Varenavn": "Hjørneadapter|115",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.44,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1337000,
+        "Varenavn": "Rørskjøt for kjørebjelke|(1338,320)",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.1,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1338320,
+        "Varenavn": "Kjørebjelke teleskopisk|3,2m",
+        "Enhet": "STK",
+        "Vekt (kg)": 42.6,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1359200,
+        "Varenavn": "Justerbart hjul|ø 200 7 kN T11 oransje",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.8,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1702066,
+        "Varenavn": "Vertikalramme|0,66 x 0,73 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.8,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1702100,
+        "Varenavn": "Vertikalramme|1,00 x 0,73 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 14.2,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1702150,
+        "Varenavn": "Vertikalramme|1,50 x 0,73 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 17.7,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1704074,
+        "Varenavn": "Hjørneadapter 74",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.29,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1710004,
+        "Varenavn": "Plastdeksel for låsekasse",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.06,
+        "Norsk katalog s.": 13
+    },
+    {
+        "Art.nr": 1714066,
+        "Varenavn": "Vertikalramme|0,66 x 0,73 m alu",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.1,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1714101,
+        "Varenavn": "Vertikalramme|1,00 x 0,73 m alu",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.2,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1714150,
+        "Varenavn": "Vertikalramme|1,50 x 0,73 m alu",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.7,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1714200,
+        "Varenavn": "Vertikalramme|2,00 x 0,73 m alu",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.6,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1716300,
+        "Varenavn": "Låsekasse dbl innvendig|1m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.1,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1716301,
+        "Varenavn": "Låsekasse dbl innvendig|1m m/fotlistfeste",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.3,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1717200,
+        "Varenavn": "Vertikalramme|2,00 x 0,36 m stål lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 17.3,
+        "Norsk katalog s.": 13
+    },
+    {
+        "Art.nr": 1718100,
+        "Varenavn": "Takfotkonsoll|1,00 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 14.8,
+        "Norsk katalog s.": 13
+    },
+    {
+        "Art.nr": 1718200,
+        "Varenavn": "Brystningsramme|2,00 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 22.7,
+        "Norsk katalog s.": 13
+    },
+    {
+        "Art.nr": 1719073,
+        "Varenavn": "Rekkverkstøtte, stål|lw, 0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.5,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1719109,
+        "Varenavn": "Rekkverkstøtte, stål|lw, 1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.5,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1722073,
+        "Varenavn": "Rekkverkstøtte med enderekkverk, stål|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.3,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1722109,
+        "Varenavn": "Rekkverkstøtte med enderekkverk, stål|1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 14.9,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1724073,
+        "Varenavn": "Enkelt rekkverk, stål|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.6,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1724109,
+        "Varenavn": "Enkelt rekkverk, stål|1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1725073,
+        "Varenavn": "Enderekkverk enkelt, stål|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.2,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1725109,
+        "Varenavn": "Enderekkverk enkelt, stål|1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.5,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1725157,
+        "Varenavn": "Enkelt rekkverk, stål|1,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.9,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1725207,
+        "Varenavn": "Enkelt rekkverk, stål|2,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.8,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1725257,
+        "Varenavn": "Enkelt rekkverk, stål|2,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.7,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1725307,
+        "Varenavn": "Enkelt rekkverk, stål|3,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.6,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1726000,
+        "Varenavn": "Enkelt rekkverk teleskopisk |stål",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.9,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1726001,
+        "Varenavn": "Enderekkverk teleskopisk | stål",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.138,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1727207,
+        "Varenavn": "Horisontalstag|2,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.9,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1727257,
+        "Varenavn": "Horisontalstag|2,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.6,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1727307,
+        "Varenavn": "Horisontalstag|3,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.4,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1728122,
+        "Varenavn": "Dobbelt enderekkverk stål|1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.6,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1728157,
+        "Varenavn": "Dobbelt rekkverk, stål|1,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.9,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1728207,
+        "Varenavn": "Dobbelt rekkverk, stål|2,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.5,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1728257,
+        "Varenavn": "Dobbelt rekkverk, stål|2,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 12.4,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1728307,
+        "Varenavn": "Dobbelt rekkverk, stål|3,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 14.1,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1728414,
+        "Varenavn": "Dobbelt rekkverk, stål|4,14 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 21,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1728722,
+        "Varenavn": "Enderekkverk dobbelt, stål|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.4,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1732157,
+        "Varenavn": "Dobbelt rekkverk, alu|1,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.5,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1732207,
+        "Varenavn": "Dobbelt rekkverk, alu|2,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.6,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1732257,
+        "Varenavn": "Dobbelt rekkverk, alu|2,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.8,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1732307,
+        "Varenavn": "Dobbelt rekkverk, alu|3,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.7,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1735000,
+        "Varenavn": "Rekkverk låsekasse med|halvkobling",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.3,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1735022,
+        "Varenavn": "Halvkobling|montering i hjørneplate",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.9,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 1735100,
+        "Varenavn": "Rekkverk låsekasse|montering i ramme",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.5,
+        "Norsk katalog s.": 19
+    },
+    {
+        "Art.nr": 1736157,
+        "Varenavn": "Diagonal|1,57 m faglengde",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.5,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1736207,
+        "Varenavn": "Diagonal|2,07 m faglengde",
+        "Enhet": "STK",
+        "Vekt (kg)": 7,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1736257,
+        "Varenavn": "Diagonal|2,57 m faglengde",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.8,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1736307,
+        "Varenavn": "Diagonal|3,07 m faglengde",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.3,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1737257,
+        "Varenavn": "Diagonal|2,57 x 1,5 m (bl)",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.3,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1741177,
+        "Varenavn": "Diagonal|konsollstøtte/rammeavstiving 0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6,
+        "Norsk katalog s.": "21 og 23"
+    },
+    {
+        "Art.nr": 1741195,
+        "Varenavn": "Diagonal|konsollstøtte/rammeavstiving 1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.4,
+        "Norsk katalog s.": "21 og 23"
+    },
+    {
+        "Art.nr": 1742122,
+        "Varenavn": "U-rigel|1,09 m med halvkobling",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.1,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1742722,
+        "Varenavn": "U-rigel|0,73 m m/halvkobling",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.9,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1743036,
+        "Varenavn": "Plattinglås|konsoll 0,36 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.9,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1743050,
+        "Varenavn": "Plattinglås|konsoll 0,50 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.3,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1743073,
+        "Varenavn": "Plattinglås|konsoll 0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.5,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1743109,
+        "Varenavn": "Plattinglås|konsoll 1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.3,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1743322,
+        "Varenavn": "Konsoll|0,36m u/rørskjøt (bl) 0,22mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.3,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1744022,
+        "Varenavn": "Konsoll|0,22 m uten rørskjøt",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.8,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1744073,
+        "Varenavn": "Konsoll|0,73 m vribar med rørskjøt",
+        "Enhet": "STK",
+        "Vekt (kg)": 7,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1744522,
+        "Varenavn": "Konsoll|0,50 m med rørskjøt",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.8,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1744722,
+        "Varenavn": "Konsoll|0,73 m med rørskjøt",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.4,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1745122,
+        "Varenavn": "Konsoll|1,09 m t7",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.6,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1745322,
+        "Varenavn": "Konsoll|0,36 m med rørskjøt",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.5,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1745722,
+        "Varenavn": "Konsoll|0,73 m forsterket med rørskjøt",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.8,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1746000,
+        "Varenavn": "Bøyle|værbeskyttelse",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.2,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 1746001,
+        "Varenavn": "Ramme|værbeskyttelse 0,73m",
+        "Enhet": "STK",
+        "Vekt (kg)": 12.4,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 1746022,
+        "Varenavn": "Konsoll plug-in|0,22 m ",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.25,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1746036,
+        "Varenavn": "Konsoll plug-in|0,32 m ",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.6,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1746322,
+        "Varenavn": "Konsoll kombi|0,36 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.8,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 1748003,
+        "Varenavn": "Holder|toppskjerm LW 0,36/0,50/0,73m",
+        "Enhet": "STK",
+        "Vekt (kg)": 12.1,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1749157,
+        "Varenavn": "Toppskjerm av nettinggitter|1,5 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 15.5,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1749207,
+        "Varenavn": "Toppskjerm av nettinggitter|2,0 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 17.7,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1749257,
+        "Varenavn": "Toppskjerm av nettinggitter|2,5 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 21.1,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1749307,
+        "Varenavn": "Toppskjerm av nettinggitter|3,0 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 24.4,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1751073,
+        "Varenavn": "U-startrigel|0,73m (direkte på spindel)",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.8,
+        "Norsk katalog s.": "29 og 33"
+    },
+    {
+        "Art.nr": 1751109,
+        "Varenavn": "U-startrigel|1,09m (direkte på spindel)",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.1,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1752003,
+        "Varenavn": "Rekkverk|repotrapp 2,57 x 1,50 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 14.6,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752006,
+        "Varenavn": "Rekkverkstøtte trapp topp|1,10m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.1,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752007,
+        "Varenavn": "Rekkverk for repotrapp innvendig|2,57/3,07 (19mm)",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.5,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752008,
+        "Varenavn": "Rekkverk for repotrapp innvendig|2,57/3,07 (22mm)",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.5,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752011,
+        "Varenavn": "Rekkverk for repotrapp|innvendig 1,0 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.8,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752012,
+        "Varenavn": "Rekkverk for repotrapp|innv, For 2,57 x 1,5 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.5,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752013,
+        "Varenavn": "Rekkverk|1753xxx repotrapp",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.9,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752014,
+        "Varenavn": "Rekkverk|repotrapp 1,0 x 0,5 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.2,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752022,
+        "Varenavn": "Parallellkobling med u-skinne|0,22mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 2,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752073,
+        "Varenavn": "U-startrigel kombi|repotrapp",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.4,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752257,
+        "Varenavn": "Rekkverk for repotrapp|2,57 x 2,00 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 16.1,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1752307,
+        "Varenavn": "Rekkverk for repotrapp|3,07 x 2,00 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 17.6,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1753002,
+        "Varenavn": "Repotrapp alu|1,20 m høyde (dir på spindel)",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.5,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1753003,
+        "Varenavn": "Repotrapp alu|1,00 m høyde (b= 0,64 m)",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.5,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1753004,
+        "Varenavn": "Repotrapp alu|1,70 m høyde (b= 0,64 m)",
+        "Enhet": "STK",
+        "Vekt (kg)": 18.3,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1753251,
+        "Varenavn": "Repotrapp alu|2,57 x 1,50 m (b= 0,64 m)",
+        "Enhet": "STK",
+        "Vekt (kg)": 21.5,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1753257,
+        "Varenavn": "Repotrapp alu|2,57 x 2,00 m (b= 0,64 m)",
+        "Enhet": "STK",
+        "Vekt (kg)": 21.9,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1753307,
+        "Varenavn": "Repotrapp alu|3,07 x 2,00 m (b= 0,64 m)",
+        "Enhet": "STK",
+        "Vekt (kg)": 26.3,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1754038,
+        "Varenavn": "Veggfeste med krok|0,38 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.6,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 1754069,
+        "Varenavn": "Veggfeste med krok|0,69 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.8,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 1754095,
+        "Varenavn": "Veggfeste med krok|0,95 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.7,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 1754145,
+        "Varenavn": "Veggfeste med krok|1,45 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.7,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 1754175,
+        "Varenavn": "Veggfeste med krok|1,75 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.8,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 1755069,
+        "Varenavn": "Veggfeste speedyscaf|0,69 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.8,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 1755257,
+        "Varenavn": "Repotrapp komfort alu|2,57 x 2,00 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 27,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1755307,
+        "Varenavn": "Repotrapp komfort alu|3,07 x 2,00 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 32,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 1756073,
+        "Varenavn": "Fotlist langsgående|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.6,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1756109,
+        "Varenavn": "Fotlist langsgående|1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.4,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1757073,
+        "Varenavn": "Fotlist tverrgående|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.8,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1757157,
+        "Varenavn": "Fotlist langsgående|1,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.1,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1757207,
+        "Varenavn": "Fotlist langsgående|2,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.7,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1757257,
+        "Varenavn": "Fotlist langsgående|2,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.6,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1757307,
+        "Varenavn": "Fotlist langsgående|3,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.8,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1757414,
+        "Varenavn": "Fotlist langsgående|4,14 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.3,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 1767514,
+        "Varenavn": "Gitterdrager speedyscaf|5,14 m alu",
+        "Enhet": "STK",
+        "Vekt (kg)": 22.5,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 1767614,
+        "Varenavn": "Gitterdrager speedyscaf|6,14 m alu",
+        "Enhet": "STK",
+        "Vekt (kg)": 26.4,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 1768000,
+        "Varenavn": "Rekkverkstøtte enkel|alu",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.4,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1769073,
+        "Varenavn": "Rekkverkstøtte, alu|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.7,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1770073,
+        "Varenavn": "Rekkverkstøtte med enderekkverk, alu|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.6,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1773022,
+        "Varenavn": "Skjermkonsoll | ",
+        "Enhet": "STK",
+        "Vekt (kg)": 18.94,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 1773200,
+        "Varenavn": "Vertikalramme|2,00 x 0,73 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 18.8,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1773204,
+        "Varenavn": "Vertikalramme|2,00 x 0,73 m, med 4 låsekasser, LW",
+        "Enhet": "STK",
+        "Vekt (kg)": 19.6,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1775000,
+        "Varenavn": "BL vangerytter|dobbelrigel (1775xxx)",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.8,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1775257,
+        "Varenavn": "Dobbelrigel alu|2,57 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.5,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1775307,
+        "Varenavn": "Dobbelrigel alu|3,07 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.7,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 1779150,
+        "Varenavn": "Fotgjengerundergang|1,50 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 31.2,
+        "Norsk katalog s.": 13
+    },
+    {
+        "Art.nr": 1780066,
+        "Varenavn": "Vertikalramme|0,66 x 1,09 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.5,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1780100,
+        "Varenavn": "Vertikalramme|1,00 x 1,09 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.8,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1780150,
+        "Varenavn": "Vertikalramme|1,50 x 1,09 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 16.8,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1780200,
+        "Varenavn": "Vertikalramme|2,00 x 1,09 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 21.5,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1781514,
+        "Varenavn": "Gitterdrager speedyscaf|5,14 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 46.4,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 1781614,
+        "Varenavn": "Gitterdrager speedyscaf|6,14 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 53.9,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 1781771,
+        "Varenavn": "Gitterdrager speedyscaf|7,14 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 67.2,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 1785200,
+        "Varenavn": "Vertikalramme|2,00 x 1,09 m, 4 låsekasser, lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 22.3,
+        "Norsk katalog s.": 11
+    },
+    {
+        "Art.nr": 1787073,
+        "Varenavn": "Sperrerefleks langsgående|0,73m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 1787157,
+        "Varenavn": "Sperrerefleks langsgående|1,57m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.6,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 1787207,
+        "Varenavn": "Sperrerefleks langsgående|2,07m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.6,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 1787257,
+        "Varenavn": "Sperrerefleks langsgående|2,57m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.6,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 1787307,
+        "Varenavn": "Sperrerefleks langsgående|3,07m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.5,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 1788070,
+        "Varenavn": "Sperrerefleks tverrgående|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.527,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 1788150,
+        "Varenavn": "Sperrerefleks|1,50m fotgjengerundergang",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.3,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 2635001,
+        "Varenavn": "Plattinglås|universal",
+        "Enhet": "STK",
+        "Vekt (kg)": 1,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 2637060,
+        "Varenavn": "Modultrapp toppelement|0,60 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.7,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 2637095,
+        "Varenavn": "Modultrapp toppelement|0,95 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.7,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 2638060,
+        "Varenavn": "Modultrapp midtelement|0,60 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.2,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 2638095,
+        "Varenavn": "Modultrapp midtelement|0,95 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.2,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 2639060,
+        "Varenavn": "Modultrapp bunnelement|0,60 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.8,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 2639095,
+        "Varenavn": "Modultrapp bunnelement|0,95 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.8,
+        "Norsk katalog s.": 29
+    },
+    {
+        "Art.nr": 2671132,
+        "Varenavn": "Brs mutter|36x30 (stk)",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.2,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 2671135,
+        "Varenavn": "Fastnøkkel|36 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.5,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 3801073,
+        "Varenavn": "Stålplatting|0,73 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.1,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3801109,
+        "Varenavn": "Stålplatting|1,09 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.4,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3801129,
+        "Varenavn": "Stålplatting|1,29 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.4,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3801140,
+        "Varenavn": "Stålplatting|1,40 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3801157,
+        "Varenavn": "Stålplatting|1,57 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.5,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3801207,
+        "Varenavn": "Stålplatting|2,07 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.2,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3801257,
+        "Varenavn": "Stålplatting|2,57 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.2,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3801307,
+        "Varenavn": "Stålplatting|3,07 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 15.3,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3802140,
+        "Varenavn": "Stålplatting|t4 0,32 x 1,40",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.6,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3803073,
+        "Varenavn": "Aluplatting|0,73 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.1,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3803109,
+        "Varenavn": "Aluplatting|1,09 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.4,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3803157,
+        "Varenavn": "Aluplatting|1,57 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.5,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3803207,
+        "Varenavn": "Aluplatting|2,07 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3803257,
+        "Varenavn": "Aluplatting|2,57 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3803307,
+        "Varenavn": "Aluplatting|3,07 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.5,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3812073,
+        "Varenavn": "Stålplatting|t4 0,73 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3812109,
+        "Varenavn": "Stålplatting|t4 1,09 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.67,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3812157,
+        "Varenavn": "Stålplatting|t4 1,57 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.4,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3812207,
+        "Varenavn": "Stålplatting|t4 2,07 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 14.8,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3812257,
+        "Varenavn": "Stålplatting|t4 2,57 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 17.9,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3812307,
+        "Varenavn": "Stålplatting|t4 3,07 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 21.18,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3812414,
+        "Varenavn": "Stålplatting|t4 4,14 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 29.8,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3819000,
+        "Varenavn": "Hjørneplatting justerbar|45-90",
+        "Enhet": "STK",
+        "Vekt (kg)": 21.5,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3835073,
+        "Varenavn": "Robustplatting|0,73 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3835109,
+        "Varenavn": "Robustplatting|1,09 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.67,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3835157,
+        "Varenavn": "Robustplatting|1,57 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 13,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3835207,
+        "Varenavn": "Robustplatting|2,07 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 16.5,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3835257,
+        "Varenavn": "Robustplatting|2,57 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 20,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3835307,
+        "Varenavn": "Robustplatting|3,07 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 23.5,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3838257,
+        "Varenavn": "Robust lukeplatting|2,57 x 0,61 m (m/stige)",
+        "Enhet": "STK",
+        "Vekt (kg)": 25,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3838307,
+        "Varenavn": "Robust lukeplatting|3,07 x 0,61 m (m/stige)",
+        "Enhet": "STK",
+        "Vekt (kg)": 28.5,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3851157,
+        "Varenavn": "Alu lukeplatting|1,57 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 15.1,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3851207,
+        "Varenavn": "Alu lukeplatting|2,07 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 17,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3851257,
+        "Varenavn": "Alu lukeplatting|2,57 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 20,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3851307,
+        "Varenavn": "Alu lukeplatting|3,07 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 24.5,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3852257,
+        "Varenavn": "Alu lukeplatting|2,57 x 0,61 m (m/stige)",
+        "Enhet": "STK",
+        "Vekt (kg)": 24,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3852307,
+        "Varenavn": "Alu lukeplatting|3,07 x 0,61 m (m/stige)",
+        "Enhet": "STK",
+        "Vekt (kg)": 28,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3856157,
+        "Varenavn": "Staluplatting|t9 1,57 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.4,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3856207,
+        "Varenavn": "Staluplatting|t9 2,07 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.2,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3856257,
+        "Varenavn": "Staluplatting|t9 2,57 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 11,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3856307,
+        "Varenavn": "Staluplatting|t9 3,07 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.3,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3857157,
+        "Varenavn": "Staluplatting|t9 1,57 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.6,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3857207,
+        "Varenavn": "Staluplatting|t9 2,07 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.2,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3857257,
+        "Varenavn": "Staluplatting|t9 2,57 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.7,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3857307,
+        "Varenavn": "Staluplatting|t9 3,07 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.2,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3858157,
+        "Varenavn": "Robust lukeplatting|1,57 x 0,61 m forskjøvet",
+        "Enhet": "STK",
+        "Vekt (kg)": 14.2,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3858207,
+        "Varenavn": "Robust lukeplatting|2,07 x 0,61 m forskjøvet",
+        "Enhet": "STK",
+        "Vekt (kg)": 17.2,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3859257,
+        "Varenavn": "Robust lukeplatting|2,57 x 0,61 m (m/stige) forskj",
+        "Enhet": "STK",
+        "Vekt (kg)": 25.2,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3859307,
+        "Varenavn": "Robust lukeplatting|3,07 x 0,61 m (m/stige) forskj",
+        "Enhet": "STK",
+        "Vekt (kg)": 28.4,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3866073,
+        "Varenavn": "Xtra-N platting|0,73 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3866109,
+        "Varenavn": "Xtra-N platting|1,09 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.5,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3866157,
+        "Varenavn": "Xtra-N platting|1,57 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 13,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3866207,
+        "Varenavn": "Xtra-N platting|2,07 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 16.2,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3866257,
+        "Varenavn": "Xtra-N platting|2,57 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 19,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3866307,
+        "Varenavn": "Xtra-N platting|3,07 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 23.5,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3868000,
+        "Varenavn": "Hjørneplatting|30°",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.5,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3868019,
+        "Varenavn": "Overlappsplatting stål|0,5 x 0,19 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.3,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3868032,
+        "Varenavn": "Overlappsplatting stål|0,5 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.22,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3868061,
+        "Varenavn": "Overlappsplatting stål|0,5 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.4,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3868332,
+        "Varenavn": "Hjørneplatting for konsoller|0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.66,
+        "Norsk katalog s.": 23
+    },
+    {
+        "Art.nr": 3869257,
+        "Varenavn": "Xtra-N lukeplatting|2,57 x 0,61 m (m/stige)",
+        "Enhet": "STK",
+        "Vekt (kg)": 25.4,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3869307,
+        "Varenavn": "Xtra-N lukeplatting|3,07 x 0,61 m (m/stige)",
+        "Enhet": "STK",
+        "Vekt (kg)": 29.5,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3877157,
+        "Varenavn": "Xtra-N platting|1,57 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.5,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3877207,
+        "Varenavn": "Xtra-N platting|2,07 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.7,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3877257,
+        "Varenavn": "Xtra-N platting|2,57 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 13,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3877307,
+        "Varenavn": "Xtra-N platting|3,07 x 0,32 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 15.2,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3881073,
+        "Varenavn": "Spalteplank teleskopisk|0,73 m (40-255mm)",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.2,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3881109,
+        "Varenavn": "Spalteplank teleskopisk|1,09 m (40-255mm)",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.8,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3881140,
+        "Varenavn": "Spalteplank teleskopisk|1,40 m (40-255mm)",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.1,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3881157,
+        "Varenavn": "Spalteplank teleskopisk|1,57 m (40-255mm)",
+        "Enhet": "STK",
+        "Vekt (kg)": 11.4,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3881207,
+        "Varenavn": "Spalteplank teleskopisk|2,07 m (40-255mm)",
+        "Enhet": "STK",
+        "Vekt (kg)": 14.9,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3881307,
+        "Varenavn": "Spalteplank teleskopisk|3,07 m (40-255mm)",
+        "Enhet": "STK",
+        "Vekt (kg)": 22.3,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 3883073,
+        "Varenavn": "Stålplatting|0,73 x 0,32 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.6,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3883109,
+        "Varenavn": "Stålplatting|1,09 x 0,32 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.7,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3883129,
+        "Varenavn": "Stålplatting|1,29 x 0,32 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.6,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3883157,
+        "Varenavn": "Stålplatting|1,57 x 0,32 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.6,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3883207,
+        "Varenavn": "Stålplatting|2,07 x 0,32 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.87,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3883257,
+        "Varenavn": "Stålplatting|2,57 x 0,32 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 16.77,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3883307,
+        "Varenavn": "Stålplatting|3,07 x 0,32 m lw",
+        "Enhet": "STK",
+        "Vekt (kg)": 19.47,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3898073,
+        "Varenavn": "Staluplatting|T21 0,73 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.7,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3898109,
+        "Varenavn": "Staluplatting|T21 1,09 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 9,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3898157,
+        "Varenavn": "Staluplatting|T21 1,57 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 12.1,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3898207,
+        "Varenavn": "Staluplatting|T21 2,07 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 15.3,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3898257,
+        "Varenavn": "Staluplatting|T21 2,57 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 18.823,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 3898307,
+        "Varenavn": "Staluplatting|T21 3,07 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 22.3,
+        "Norsk katalog s.": 15
+    },
+    {
+        "Art.nr": 4000001,
+        "Varenavn": "Låsepinne|rød",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.15,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 4000003,
+        "Varenavn": "Stillaslås|(sett: 10 låser+2 nøkler+kodekort)",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.2,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 4000004,
+        "Varenavn": "Stillaslås|(sett: 20 låser+2 nøkler+kodekort)",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.2,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 4000005,
+        "Varenavn": "Stillaslås|(sett: 50 låser+4 nøkler+kodekort)",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.5,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 4000006,
+        "Varenavn": "Stillaslås|(tilleggssett: 20 låser)",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.2,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 4000007,
+        "Varenavn": "Stillaslås|(tilleggssett: 50 låser)",
+        "Enhet": "STK",
+        "Vekt (kg)": 10.5,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 4000050,
+        "Varenavn": "Etics plasthylse|50 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4000122,
+        "Varenavn": "ZB etics tie rod|380mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 1,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4000127,
+        "Varenavn": "ETICS veggskrue|12 x 125 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.08,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4000400,
+        "Varenavn": "Justerbar fotplate|0-16%",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.25,
+        "Norsk katalog s.": 9
+    },
+    {
+        "Art.nr": 4000482,
+        "Varenavn": "ETICS Gjengestag|480 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.3,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4000600,
+        "Varenavn": "Etics-feste|600 komplett",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.46,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4000800,
+        "Varenavn": "Etics-feste|800 komplett",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.86,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4001060,
+        "Varenavn": "Fotspindel|60 ",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.6,
+        "Norsk katalog s.": 9
+    },
+    {
+        "Art.nr": 4002080,
+        "Varenavn": "Fotspindel|80 ",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.9,
+        "Norsk katalog s.": 9
+    },
+    {
+        "Art.nr": 4002130,
+        "Varenavn": "Fotspindel|150 ",
+        "Enhet": "STK",
+        "Vekt (kg)": 10,
+        "Norsk katalog s.": 9
+    },
+    {
+        "Art.nr": 4003000,
+        "Varenavn": "Fotspindel|leddet 60 ",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.1,
+        "Norsk katalog s.": 9
+    },
+    {
+        "Art.nr": 4006666,
+        "Varenavn": "Magnetvater | ",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.4,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4007011,
+        "Varenavn": "ZB plug f,wall insert|12mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.01,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4008072,
+        "Varenavn": "Plastplugg dia|14mm x 70mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.01,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4008102,
+        "Varenavn": "ZB plast,wall insert|14x100mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.01,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4008137,
+        "Varenavn": "ZB plast,wall insert|14x135mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.01,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4009007,
+        "Varenavn": "Etasjestige|2,15m for både AR og BL T19",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.6,
+        "Norsk katalog s.": 17
+    },
+    {
+        "Art.nr": 4009097,
+        "Varenavn": "Øyeskrue dia|12 mm x 95 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.16,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4009122,
+        "Varenavn": "ZB ring screw|12 x 120 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.18,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4009192,
+        "Varenavn": "ZB ring screw|12 x 190 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.25,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4009232,
+        "Varenavn": "ZB ring screw|12 x 230 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.3,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4009302,
+        "Varenavn": "Øyeskrue dia|12 mm x 300 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.35,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4009352,
+        "Varenavn": "ZB ring screw|12 x 350 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.5,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4015100,
+        "Varenavn": "Dekkeklemme | brystningstvinge",
+        "Enhet": "STK",
+        "Vekt (kg)": 7,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 4015101,
+        "Varenavn": "Rekkverkstøtte|dekkeklemme",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.7,
+        "Norsk katalog s.": 35
+    },
+    {
+        "Art.nr": 4027000,
+        "Varenavn": "Reduksjonsstykke|1,09m - 0,73m",
+        "Enhet": "STK",
+        "Vekt (kg)": 8.3,
+        "Norsk katalog s.": 33
+    },
+    {
+        "Art.nr": 4030207,
+        "Varenavn": "Monteringsrekkverk|1,57-2,07 m T19",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.88,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 4030307,
+        "Varenavn": "Monteringsrekkverk|2,07-3,07 m T19",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.73,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 4031000,
+        "Varenavn": "Endestøtte| ",
+        "Enhet": "STK",
+        "Vekt (kg)": 9.8,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 4031003,
+        "Varenavn": "Monteringsstøtte f/2 rekkv|T19",
+        "Enhet": "STK",
+        "Vekt (kg)": 6,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 4032100,
+        "Varenavn": "Jordanker | stillasstøtte",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.8,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4032200,
+        "Varenavn": "Opptaker | jordanker",
+        "Enhet": "STK",
+        "Vekt (kg)": 8,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4032600,
+        "Varenavn": "Stillasstøtte teleskopisk|3,3-6 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 28.4,
+        "Norsk katalog s.": 25
+    },
+    {
+        "Art.nr": 4421051,
+        "Varenavn": "Stillashammer|600gr, Forsterket",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.8,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4600100,
+        "Varenavn": "Stillasrør|1,00 m stål",
+        "Enhet": "STK",
+        "Vekt (kg)": 4.5,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4600200,
+        "Varenavn": "Stillasrør|2,00 m stål",
+        "Enhet": "STK",
+        "Vekt (kg)": 9,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4600300,
+        "Varenavn": "Stillasrør|3,00 m stål",
+        "Enhet": "STK",
+        "Vekt (kg)": 13.5,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4600400,
+        "Varenavn": "Stillasrør|4,00 m stål",
+        "Enhet": "STK",
+        "Vekt (kg)": 18.1,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4600500,
+        "Varenavn": "Stillasrør|5,00 m stål",
+        "Enhet": "STK",
+        "Vekt (kg)": 22.7,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4600600,
+        "Varenavn": "Stillasrør|6,00 m stål",
+        "Enhet": "STK",
+        "Vekt (kg)": 27.3,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4700019,
+        "Varenavn": "NK normalkobling|19 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.3,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4700022,
+        "Varenavn": "NK normalkobling|22 mm 9,1 kn",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.3,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4702022,
+        "Varenavn": "DK dreiekobling|22 mm, 5,2 kn",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.5,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4702222,
+        "Varenavn": "Kobling | toppskjerm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.85,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 4702322,
+        "Varenavn": "Kobling f/vertikalramme | ved bruk av nett",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.85,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 4708022,
+        "Varenavn": "Halvkobling med | fotlistfeste",
+        "Enhet": "STK",
+        "Vekt (kg)": 1,
+        "Norsk katalog s.": 21
+    },
+    {
+        "Art.nr": 4720022,
+        "Varenavn": "Gitterdragerkobling| 22mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.6,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4735000,
+        "Varenavn": "Kilekobling f/fotspindel| vribar",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.82,
+        "Norsk katalog s.": 9
+    },
+    {
+        "Art.nr": 4747000,
+        "Varenavn": "Skralle|(19+22 mm) spiss ende",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.6,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4777022,
+        "Varenavn": "NK normalkobling m/hurtiggjenger|0,22 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.3,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4778019,
+        "Varenavn": "DK kobling m/hurtiggjenger|0,19mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.5,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4778022,
+        "Varenavn": "DK dreiekobling m/hurtiggjenger|0,22mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 1.5,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 4905062,
+        "Varenavn": "Bolt med mutter|dia. 12 mm / 60 mm",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.08,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4923073,
+        "Varenavn": "U-rigel|gitterdrager 0,73m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.1,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4923109,
+        "Varenavn": "U-rigel|gitterdrager 1,09m",
+        "Enhet": "STK",
+        "Vekt (kg)": 7.8,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4924073,
+        "Varenavn": "U-rigel|gitterdrager m/rørskjøt",
+        "Enhet": "STK",
+        "Vekt (kg)": 6.5,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4925000,
+        "Varenavn": "Skjøtestykke t16 | gitterdrager",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.4,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4925225,
+        "Varenavn": "Gitterdrager stål LW|2,25 m x 0,45 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 21.8,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4925325,
+        "Varenavn": "Gitterdrager stål LW|3,25 m x 0,45 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 30.9,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4925425,
+        "Varenavn": "Gitterdrager stål LW|4,25 m x 0,45 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 40,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4925532,
+        "Varenavn": "Gitterdrager stål LW|5,32 m x 0,45 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 49.5,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 4925632,
+        "Varenavn": "Gitterdrager stål LW|6,32 m x 0,45 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 59,
+        "Norsk katalog s.": 31
+    },
+    {
+        "Art.nr": 5105085,
+        "Varenavn": "Rørpalle|85 0,97 x 0,97",
+        "Enhet": "STK",
+        "Vekt (kg)": 30.8,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 5105125,
+        "Varenavn": "Rørpalle|125 1,37 x 0,97",
+        "Enhet": "STK",
+        "Vekt (kg)": 32,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 5110112,
+        "Varenavn": "Sikringsrigel for rammepall|1,12 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 3.13,
+        "Norsk katalog s.": "13 og 39"
+    },
+    {
+        "Art.nr": 5113000,
+        "Varenavn": "Gitterboks|1,26x0,86 h=0,83 (u/bunn;+6494514)",
+        "Enhet": "STK",
+        "Vekt (kg)": 48.88,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 5113073,
+        "Varenavn": "Rammepall for vertikalrammer|0,73 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 34,
+        "Norsk katalog s.": "13 og 39"
+    },
+    {
+        "Art.nr": 5113109,
+        "Varenavn": "Rammepall for vertikalrammer|1,09 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 36.2,
+        "Norsk katalog s.": 13
+    },
+    {
+        "Art.nr": 5113120,
+        "Varenavn": "Låsestag for rammepall|1,20 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 2.1,
+        "Norsk katalog s.": "13 og 39"
+    },
+    {
+        "Art.nr": 6232002,
+        "Varenavn": "Sikkerhetsnett med reim|2x10 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 5.9,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 6235002,
+        "Varenavn": "Stropp/ rem 0,5m for sikkerhetsnett|6232002",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.03,
+        "Norsk katalog s.": 27
+    },
+    {
+        "Art.nr": 6494514,
+        "Varenavn": "Trebunn for gitterboks|(art.nr. 5113000)",
+        "Enhet": "STK",
+        "Vekt (kg)": 15.2,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 7042004,
+        "Varenavn": "Modul lastepalle|1,08 x 0,68 x 0,61 m",
+        "Enhet": "STK",
+        "Vekt (kg)": 40,
+        "Norsk katalog s.": 39
+    },
+    {
+        "Art.nr": 9000175,
+        "Varenavn": "Kortholder | stillasskilt",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.009,
+        "Norsk katalog s.": 37
+    },
+    {
+        "Art.nr": 9000176,
+        "Varenavn": "Stillasskilt|kort",
+        "Enhet": "STK",
+        "Vekt (kg)": 0.03,
+        "Norsk katalog s.": 37
+    }
+]

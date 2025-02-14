@@ -1,0 +1,99 @@
+.scaffold-pricing-container {
+    /* width: 300px; */
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Dropdown Styling */
+.dropdown-container {
+    display: inline-block;
+    background-color: #f0f8ff;
+    border: 1px solid #007bff;
+    border-radius: 8px;
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* width: 100%; */
+}
+
+.dropdown {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
+    border: none;
+    background: transparent;
+    outline: none;
+    appearance: none; /* Remove default arrow for custom style */
+    cursor: pointer;
+}
+
+/* Custom dropdown arrow */
+.dropdown-container::after {
+    content: '▼';
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #007bff;
+}
+
+/* Price Details Box */
+.price-details {
+    display: flex;
+    background-color: #f0f8ff;
+    border: 1px solid #007bff;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.price-details h3 {
+    font-size: 20px;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.price-row {
+    display: grid;
+    justify-content: space-between;
+    padding: 4px 0;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.price-row span {
+    font-weight: 500;
+}
+
+.placeholder {
+    color: #666;
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.save-button{
+    background-color: #007bff;
+    color: #f0f8ff;
+}
+
+.admin-input{
+    height: 100%;
+    width: 50%;
+    border-radius: 5px;
+    border-width: 2px;
+    --tw-border-opacity: 1;
+    border-color: rgb(204 204 204 / var(--tw-border-opacity));
+    padding-left: 45px;
+}

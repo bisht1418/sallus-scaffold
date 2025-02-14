@@ -1,0 +1,22 @@
+version: '3.6'
+
+services: 
+ 
+  sallus-fe:
+    image: sallus-fe
+    container_name: sallus-fe
+    hostname: sallus-fe
+    restart: always
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 3000:3000
+    networks:
+      - sallusstillas
+
+networks:
+  sallusstillas:
+    name: sallusstillas
+    driver: bridge
+    external: true
