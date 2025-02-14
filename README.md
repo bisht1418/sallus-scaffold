@@ -26,7 +26,7 @@ At **Salus Scaffold**, we are dedicated to transforming the scaffolding industry
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/salus-scaffold.git
+git clone https://github.com/bisht1418/sallus-scaffold.git
 cd salus-scaffold
 ```
 
